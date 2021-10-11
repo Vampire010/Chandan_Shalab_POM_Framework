@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-10-11T07:42:17 IST" name="Default suite" finished-at="2021-10-11T07:42:25 IST" duration-ms="8073">
+    <groups>
+    </groups>
+    <test started-at="2021-10-11T07:42:17 IST" name="Default test" finished-at="2021-10-11T07:42:25 IST" duration-ms="8073">
+      <class name="Test_Class_Runner.Login_Testng_Runner">
+        <test-method is-config="true" signature="open_browser()[pri:0, instance:Test_Class_Runner.Login_Testng_Runner@29e495ff]" started-at="2021-10-11T07:42:17 IST" name="open_browser" finished-at="2021-10-11T07:42:23 IST" duration-ms="5950" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_browser -->
+        <test-method signature="Login_Tc1()[pri:0, instance:Test_Class_Runner.Login_Testng_Runner@29e495ff]" started-at="2021-10-11T07:42:23 IST" name="Login_Tc1" finished-at="2021-10-11T07:42:25 IST" duration-ms="1943" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_Tc1 -->
+        <test-method is-config="true" signature="close_browser()[pri:0, instance:Test_Class_Runner.Login_Testng_Runner@29e495ff]" started-at="2021-10-11T07:42:25 IST" name="close_browser" finished-at="2021-10-11T07:42:25 IST" duration-ms="138" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close_browser -->
+      </class> <!-- Test_Class_Runner.Login_Testng_Runner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
